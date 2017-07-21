@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "asmsuechan <suenagaryoutaabc@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.7.0"
+  }
 }
